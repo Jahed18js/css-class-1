@@ -1,0 +1,50 @@
+.title_blog{
+    text-align:center;
+    color:black;
+    background-color:#f0e2e2;
+   
+    font-family: 'Source Sans Pro', sans-serif;
+    font-style: italic;
+    
+   height: 50px;
+    display: block;
+    line-height: 50px;
+    font-size:  40px;
+    
+   
+}
+.blog{
+    font: size 21px;
+    text-align:justify;
+    line-height: 25px;
+    
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.read_more{
+
+    text-decoration:none;
+    display: block;
+    color:white;
+    height: 50px;
+    width: 150px;
+    text-align: center;
+    background-color:red;
+    line-height: 50px;
+    
+    font-family: 'Source Sans Pro', sans-serif;
+
+}
+.big_size{
+    font-size:35px;
+    font-style: bold;
+    font-style: italic;
+    font-family: 'Source Sans Pro', sans-serif;
+
+}
+
+.img{
+    width: 550px;
+
+}
+
